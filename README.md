@@ -1,2 +1,2 @@
 # Daily-SQL-Challenges
-Daily SQL challenges with clean solutions, and real-world analytical reasoning to strengthen hands-on data skills.
+A set of SQL challenges with clear solutions, and practical analytical insights. This repository helps me stay consistent and strengthen my SQL skills through real-world problem-solving practice.
